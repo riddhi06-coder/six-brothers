@@ -75,7 +75,7 @@
                     </svg><span>Cocktails</span></a>
                   <ul class="sidebar-submenu">
                     <li><a href="{{ route('cocktails.index') }}">Cocktails</a></li>
-                    <li><a href="{{ route('cocktails.index') }}">Cocktails Details</a></li>
+                    <li><a href="{{ route('cocktail-detail.index') }}">Cocktails Details</a></li>
                   </ul>
                 </li>
 

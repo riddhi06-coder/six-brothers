@@ -10,7 +10,7 @@ use App\Http\Controllers\Backend\PressController;
 use App\Http\Controllers\Backend\BlogTypesController;
 use App\Http\Controllers\Backend\BlogDetailsController;
 use App\Http\Controllers\Backend\CocktailsController;
-
+use App\Http\Controllers\Backend\CocktailsDetailsController;
 
 use App\Http\Controllers\Frontend\HomeController;
 
@@ -45,8 +45,11 @@ Route::resource('blog-types',BlogTypesController::class);
 // ==== Manage BLog Details in BLogs Section
 Route::resource('blog-detail',BlogDetailsController::class);
 
-// ==== Manage Blogs Types in BLogs Section
+// ==== Manage cocktails 
 Route::resource('cocktails',CocktailsController::class);
+
+// ==== Manage Cocktail Details
+Route::resource('cocktail-detail',CocktailsDetailsController::class);
 
 // ===================================================================Frontend================================================================
 
