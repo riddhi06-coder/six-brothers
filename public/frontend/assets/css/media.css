@@ -1,0 +1,3093 @@
+@media only screen and (min-width: 1720px) and (max-width: 1728px) {
+    .spirit-eight-wrap {
+        padding-top: 330px;
+        padding-bottom: 80px;
+    }
+    
+    .spirit-nine-text {
+        margin-top: 150px !important;
+    }
+    
+    .what-is-mahura-two-img-sec {
+        padding-top: 70px;
+    }
+    
+    .what-is-mahura-five-text {
+        padding: 80px 0 40px;
+    }
+    
+    .resurrection-eight-wrap {
+        padding: 340px 0 80px;
+    }
+    
+    .journey-wrap {
+        padding-bottom: 550px !important;
+    }
+    
+    .popup-join-our-two {
+        height: 100vh !important;
+        display: flex;
+        justify-content: center;  /* horizontal center */
+        align-items: center; 
+    }
+}
+
+
+
+
+@media (max-width:2600px) {
+    .popup-join-our-two {
+        height: 100vh !important;
+        display: flex;
+        justify-content: center;  /* horizontal center */
+        align-items: center; 
+    }
+    
+    .blog-banners-wrap {
+        background-position: center;
+    }
+    
+    .spirit-three-wrap {
+        height: 85vh;
+    }
+    
+    .hamenu .menu-links {
+        padding-left: 130px;
+    }
+    
+    .hamenu .cont-info {
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .location-wrap { 
+        padding: 500px 0;
+    }
+    
+    /*Blog Page*/
+    .blog-banners-wrap {
+        margin-top: -105px;
+    }
+    
+    /*Resurrection Page*/
+    .resurrection-banners-wrap {
+        margin-top: -105px;
+    }
+    
+    .media-banner-text h1 {
+        margin-top: -35%;
+    }
+    
+    /*Journey Page*/
+    .journey-banners-wrap {
+        margin-top: -105px;
+    }
+    
+    .journey-three-wild-text {
+        width: 50%;
+    }
+    
+    .journey-four-wrap {
+        padding: 80px 0;
+    }
+    
+    .journey-three-eye-icon {
+        right: 540px;
+        top: -30%;
+        height: 200px;
+        width: 200px;
+    }
+    
+    .journey-three-img-one {
+        top: 250px;
+        left: 18%;
+        width: 18%;
+    }
+    
+    /*=====*/
+    /*.spirit-three-wrap {*/
+    /*    height: 75vh;*/
+    /*}*/
+    
+    .spirit-five-wrap {
+        height: 60vh;
+    }
+
+    /* What is Mahura Page */
+    .what-is-mahura-banners-wrap {
+        margin-top: -105px;
+    }
+
+    .mahura-six-wrap {
+        padding-top: 780px;
+    }
+
+    .mahura-six-img-two {
+        top: 650px;
+        right: 285px;
+        width: 190px;
+    }
+
+    /*Legacy page*/
+    .legacy-banners-wrap {
+        margin-top: -105px;
+    }
+
+    .legacy-four-eye-box {
+        bottom: -320px;
+    }
+
+    .legacy-five-tiger-claws-sec {
+        top: 325%;
+        left: 100%;
+        width: 290px;
+    }
+
+    /*Mix Page*/
+    .mix-banners-wrap {
+        margin-top: -105px;
+        background-position: center;
+    }
+
+    .mix-banner-text {
+        margin-top: -360px;
+    }
+
+    /*Media Page*/
+    .media-banners-wrap {
+        margin-top: -105px;
+    }
+
+    /*The distilling*/
+    .distillery-banner-wrap {
+        margin-top: -105px;
+    }
+
+    /* The Location */
+    .location-banners-wrap {
+        margin-top: -100px;
+    }
+
+    .location-two-tiger-back {
+        right: 42%;
+        width: 15%;
+    }
+
+    /* homepage */
+    .banners-wrap {
+        margin-top: -105px;
+    }
+
+    .banners-wrap .banner-text {
+        margin-top: -34%;
+    }
+
+    .spirit-text p {
+        font-size: 18px;
+    }
+
+    .spirit-text {
+        padding-left: 10px;
+    }
+
+    .what-is-text p {
+        font-size: 18px;
+    }
+
+    .journey-wrap {
+        padding-top: 900px;
+        padding-bottom: 500px;
+    }
+
+    .journey-tiger-img {
+        top: -50%;
+    }
+
+    .journey-text p {
+        font-size: 18px;
+        /*padding: 0 154px;*/
+    }
+
+    .legacy-text p {
+        font-size: 18px;
+    }
+
+    .location-text p {
+        font-size: 18px;
+    }
+
+    .possibilities-textpart-text p {
+        font-size: 18px;
+    }
+
+    .cocktail-item p {
+        font-size: 18px;
+    }
+
+    .join-us-wrap .join-us-form-sec p {
+        font-size: 18px;
+    }
+
+    .spirit-wild-text {
+        width: 30%;
+    }
+
+    .location-bottle {
+        width: 25%;
+    }
+
+    .fruits-bg-wrap {
+        height: 60vh;
+    }
+
+    .possibilities-wrap {
+        height: 780px;
+    }
+
+    /* The Spirit */
+    .spirit-banners-wrap {
+        margin-top: -105px;
+    }
+
+    .spirit-two-wrap {
+        margin-top: 110px;
+    }
+
+    .spirit-two-tiger-back {
+        bottom: -28%;
+        right: 42%;
+        width: 15%;
+    }
+
+    .spirit-two-text p {
+        font-size: 18px;
+    }
+
+    .spirit-loca-bottle {
+        width: 16%;
+        bottom: -10%;
+        right: 42%;
+    }
+
+    .spirit-eight-wild-text {
+        width: 50%;
+    }
+
+    .spirit-eight-text p {
+        font-size: 18px;
+    }
+
+    .spirit-eight-text {
+        margin-top: 160px;
+    }
+
+    .spirit-nine-text p {
+        font-size: 18px;
+    }
+
+    .spirit-nine-text {
+        margin-top: 400px;
+    }
+
+    .spirit-eight-eye-icon {
+        right: 18%;
+        top: 28%;
+        height: 300px;
+        width: 300px;
+    }
+
+    .spirit-ten-wrap {
+        height: 60vh;
+    }
+
+    .spirit-eleven-text p {
+        font-size: 18px;
+    }
+    
+    .journey-three {
+        top: 515px;
+    }
+    
+    .hamenu .menu-links .main-menu {
+        left: 5%;
+    }
+}
+
+@media (max-width:2000px) {
+    .hamenu .menu-links .main-menu {
+        left: 10%;
+    }
+    
+    .hamenu .menu-links {
+        padding-left: 30px;
+    }    
+    
+    .spirit-three-wrap {
+        height: 85vh;
+    }
+    
+    .hamenu .cont-info {
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .journey-four-wrap {
+        padding: 110px 0 80px;
+    }
+    
+    .journey-one {
+        top: 0;
+    }
+    
+    .journey-three {
+         top: 300px; 
+    }
+    
+    .mix-banner-text {
+        margin-top: -330px;
+    }
+    
+    .location-wrap {
+        padding: 330px 0;
+    }
+    
+    .media-banner-text h1 {
+        margin-top: -30%;
+    }
+    
+    /*Journey Page*/
+    .journey-three-wild-text {
+        width: 70%;
+    }
+    
+    .journey-three-eye-icon {
+        right: 180px;
+        top: -30%;
+    }
+    
+    .journey-three-img-one {
+        top: 370px;
+        left: 8%;
+    }
+    
+    .journey-four-eye {
+        right: 12%;
+    }
+    
+    .possibilities-wrap {
+        height: 600px;
+    }
+
+    /* What is Mahura Page */
+    .mahura-six-wrap {
+        padding-top: 600px;
+    }
+
+    .mahura-six-img-two {
+        top: 465px;
+        right: 185px;
+    }
+
+    /*Legacy Page*/
+    .legacy-four-eye-box {
+        bottom: -400px;
+    }
+
+    .legacy-five-tiger-claws-sec {
+        top: 250%;
+        left: 88%;
+        width: 315px;
+    }
+
+    .cta-bottle {
+        width: 30%;
+    }
+
+    /*The distilling*/
+    .distillery-banner-wrap {
+        margin-top: -105px;
+    }
+
+    /* The Location */
+    .location-two-tiger-back {
+        width: 20%;
+    }
+
+    /* homepage */
+    .banners-wrap {
+        margin-top: -105px;
+    }
+
+    .banners-wrap .banner-text {
+        margin-top: -28%;
+    }
+
+    .spirit-text p {
+        font-size: 18px;
+    }
+
+    .spirit-text {
+        padding-left: 10px;
+    }
+
+    .what-is-text p {
+        font-size: 18px;
+    }
+
+    .journey-wrap {
+        padding-top: 700px;
+        padding-bottom: 500px;
+    }
+
+    .journey-tiger-img {
+        top: -50%;
+    }
+
+    .journey-text p {
+        font-size: 18px;
+        /*padding: 0 154px;*/
+    }
+
+    .legacy-text p {
+        font-size: 18px;
+    }
+
+    .location-text p {
+        font-size: 18px;
+    }
+
+    .possibilities-textpart-text p {
+        font-size: 18px;
+    }
+
+    .cocktail-item p {
+        font-size: 18px;
+    }
+
+    .join-us-wrap .join-us-form-sec p {
+        font-size: 18px;
+    }
+
+    .spirit-wild-text {
+        width: 30%;
+    }
+
+    /*The Spirit*/
+    .spirit-loca-bottle {
+        bottom: -15%;
+        width: 20%;
+        right: 40%;
+    }
+    
+    .spirit-banner-text h1 {
+        margin-bottom: 18%;
+    }
+    /*.spirit-two-text {*/
+    /*    padding: 0 280px;*/
+    /*}*/
+
+    .spirit-two-tiger-back {
+        bottom: -30%;
+        right: 40%;
+        width: 20%;
+    }
+
+    .spirit-banners-wrap {
+        margin-top: -100px;
+    }
+
+    .spirit-two-text p {
+        font-size: 18px;
+    }
+
+    .spirit-eight-eye-icon {
+        right: 18%;
+        top: 18%;
+        height: 250px;
+        width: 250px;
+    }
+
+    .spirit-eight-text {
+        margin-top: 30px;
+    }
+
+    .spirit-nine-text {
+        margin-top: 220px;
+    }
+    
+    .spirit-ten-wrap {
+        height: 60vh;
+    }
+}
+
+@media (max-width: 1920px) {
+    .popup-join-our-two {
+        height: 100vh !important;
+        display: flex;
+        justify-content: center;  /* horizontal center */
+        align-items: center; 
+    }
+    
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .hamenu .cont-info {
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .banners-wrap .banner-text {
+        margin-top: -26%;
+    }
+    
+    .mix-banner-text {
+        margin-top: -290px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .popup-join-our-two {
+        height: 100vh !important;
+        display: flex;
+        justify-content: center;  /* horizontal center */
+        align-items: center; 
+    }
+    
+    .blog-banners-wrap {
+        background-position: center;
+    }
+    
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .hamenu .cont-info {
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .spirit-two-tiger-back {
+        bottom: -22%;
+    }
+    
+    .legacy-four-eye-box {
+        bottom: -440px;
+    }
+    
+    .journey-four-wrap {
+        padding: 0 0 80px;
+    }
+    
+    .spirit-eight-text {
+        margin-top: -20px;
+    }
+    
+    .location-two-tiger-back {
+        width: 24%;
+    }
+    
+    .spirit-nine-text {
+        margin-top: 110px;
+    }
+    
+    /*The Spirit*/
+    .spirit-loca-bottle {
+        bottom: -15%;
+        width: 25%;
+        right: 38%;
+    }
+    
+    .spirit-three-wrap {
+        height: 70vh;
+    }
+    
+    .banners-wrap .banner-text {
+        margin-top: -30%;
+    }
+    
+    .mix-banner-text {
+        margin-top: -300px;
+    }
+    
+    .journey-wrap {
+        padding-top: 600px;
+        padding-bottom: 600px;
+    }
+}
+
+@media (max-width:1512px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .hamenu .cont-info {
+        background-size: cover;
+        background-position: center center;
+    }
+}
+
+@media (max-width:1500px) {
+    .blog-banners-wrap {
+        background-position: center;
+    }
+    
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .spirit-nine-text {
+        margin-top: 80px;
+    }
+         
+    .spirit-two-wrap {
+        margin-top: 80px;
+    }
+ }
+
+@media (max-width:1500px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .journey-four-wrap {
+        padding: 20px 0 80px;
+    }
+    
+    .spirit-three-wrap {
+        height: 100vh; 
+    }
+    
+    .location-wrap {
+        padding: 260px 0;
+    }
+    
+    .media-banner-text h1 {
+        margin-top: -24%;
+    }
+    
+    /*Journey Page*/
+    .journey-three-wild-text {
+        width: 80%;
+    }
+    
+    .journey-three-eye-icon {
+        right: 70px;
+        top: -28%;
+        height: 150px;
+        width: 150px;
+    }
+    
+    .journey-three-img-one {
+        top: 290px;
+        left: 2%;
+        width: 22%;
+    }
+    
+    .journey-four-wrap {
+        padding: 0 0 80px;
+    }
+    
+    .journey-four-eye {
+        right: 8%;
+    }
+    
+    /*======*/
+    .spirit-five-wrap {
+        height: 60vh;
+    }
+    
+    .spirit-ten-wrap {
+        height: 60vh;
+    }
+    
+    .possibilities-wrap {
+        height: 500px;
+    }
+    
+    .mix-banner-text {
+        margin-top: -260px;
+    }
+    
+
+    /* what is mahura page */
+    .mahura-six-img-two {
+        top: 330px;
+        right: 110px;
+    }
+
+    .mahura-six-wrap {
+        padding-top: 460px;
+    }
+
+    /*Legacy Page*/
+    .legacy-five-tiger-claws-sec {
+        top: 185%;
+        left: 64%;
+        width: 330px;
+    }
+
+    .legacy-four-eye-box {
+        bottom: -450px;
+    }
+
+    /* The Location */
+    .location-two-tiger-back {
+        right: 38%;
+        width: 26%;
+    }
+
+    /* homepage */
+    .banners-wrap {
+        margin-top: -105px;
+    }
+
+    .banners-wrap .banner-text {
+        margin-top: -23%;
+    }
+
+    .spirit-text p {
+        font-size: 18px;
+    }
+
+    .spirit-text {
+        padding-left: 10px;
+        padding-top: 40px;
+    }
+
+    .what-is-text p {
+        font-size: 18px;
+    }
+
+    .journey-wrap {
+        padding-top: 530px;
+        padding-bottom: 450px;
+    }
+
+    .journey-tiger-img {
+        top: -50%;
+    }
+
+    .journey-text p {
+        font-size: 18px;
+        /*padding: 0 154px;*/
+    }
+
+    .legacy-text p {
+        font-size: 18px;
+    }
+
+    .location-text p {
+        font-size: 18px;
+    }
+
+    .possibilities-textpart-text p {
+        font-size: 18px;
+    }
+
+    .cocktail-item p {
+        font-size: 18px;
+    }
+
+    .join-us-wrap .join-us-form-sec p {
+        font-size: 18px;
+    }
+
+    /*The Spirit*/
+    .spirit-loca-bottle {
+        bottom: -16%;
+        width: 25%;
+        right: 38%;
+    }
+
+    .spirit-banners-wrap {
+        margin-top: -100px;
+    }
+
+    .spirit-two-text p {
+        font-size: 18px;
+    }
+
+    .spirit-two-tiger-back {
+        bottom: -25%;
+        right: 38%;
+        width: 25%;
+    }
+
+    .spirit-eight-wild-text {
+        width: 70%;
+    }
+
+    .spirit-eight-text {
+        margin-top: 60px;
+    }
+
+    .spirit-eight-eye-icon {
+        right: 6%;
+    }
+
+    .spirit-nine-text {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width:1440px) {
+    
+    .popup-join-our-two {
+        height: 100vh !important;
+        display: flex;
+        justify-content: center;  /* horizontal center */
+        align-items: center; 
+    }
+    
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .banners-wrap .banner-text {
+        margin-top: -22%;
+    }
+    
+    .mix-banner-text {
+        margin-top: -240px;
+    }
+}
+
+@media (max-width:1400px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .journey-wrap {
+        padding-bottom: 450px;
+        padding-top: 510px;
+    }
+
+    .logo img {
+        width: 10.2vw;
+    }
+
+    .journey-tiger-img {
+        right: -2%;
+        width: 25%;
+    }
+
+    .possibilities-wrap {
+        height: 450px;
+    }
+
+    .spirit-banners-wrap {
+        margin-top: -85px;
+    }
+}
+
+
+@media (max-width:1370px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .legacy-four-eye-box {
+        bottom: -460px;
+    }
+    
+    .spirit-two-wrap {
+        margin-top: 70px;
+    }
+    
+    .spirit-eight-text {
+        margin-top: 30px;
+    }
+    
+    .location-wrap {
+        padding: 240px 0;
+    }
+    
+    /*Blog Page*/
+    .blog-banners-wrap {
+        margin-top: -85px;
+    }
+    
+    /*Resurrection Page*/
+    .resurrection-banners-wrap {
+        margin-top: -85px;
+    }
+    
+    .media-banner-text h1 {
+        margin-top: -18%;
+    }
+    
+    .journey-banners-wrap {
+        margin-top: -85px;
+    }
+    
+    .location-banners-wrap {
+        margin-top: -85px;
+    }
+
+    /* What is mahura page */
+    .mahura-six-img-two {
+        top: 280px;
+        right: 90px;
+    }
+
+    .mahura-six-wrap {
+        padding-top: 400px;
+    }
+
+    .what-is-mahura-banners-wrap {
+        margin-top: -85px;
+    }
+
+    .legacy-banners-wrap {
+        margin-top: -85px;
+    }
+
+    /*Mix Page*/
+    .mix-banners-wrap {
+        margin-top: -85px;
+    }
+
+    .mix-banner-text {
+        margin-top: -220px;
+    }
+
+    /*Media page*/
+    .media-banners-wrap {
+        margin-top: -85px;
+    }
+
+    /*The distilling*/
+    .distillery-banner-wrap {
+        margin-top: -85px;
+    }
+
+    /* The Loacation */
+    .location-two-tiger-back {
+        right: 36%;
+        width: 30%;
+    }
+
+    /* homepage */
+    .banners-wrap {
+        margin-top: -85px;
+    }
+
+    .banners-wrap .banner-text {
+        margin-top: -20%;
+    }
+
+    .legacy-text p {
+        font-size: 18px;
+    }
+
+    .spirit-text p {
+        font-size: 18px;
+    }
+
+    .what-is-text p {
+        font-size: 18px;
+    }
+
+    .journey-text p {
+        font-size: 18px;
+    }
+
+    .possibilities-textpart-text p {
+        font-size: 18px;
+    }
+
+    .spirit-wild-text {
+        width: 30%;
+    }
+
+    /* The Spirit */
+    .spirit-loca-bottle {
+        bottom: -18%;
+        width: 20%;
+        right: 40%;
+    }
+
+    .spirit-ten-wrap {
+        height: 60vh;
+    }
+    
+    .banners-wrap .banner-text {
+        margin-top: -18%;
+    }
+}
+
+@media (max-width:1306px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    /*Resurrection Page*/
+    .resurrection-banners-wrap {
+        margin-top: -85px;
+    }
+    
+    .media-banner-text h1 {
+        margin-top: -25%;
+    }
+    
+    /*Journey Page*/
+    .journey-banners-wrap {
+        margin-top: -85px;
+    }
+    
+    .journey-three-eye-icon {
+        right: 65px;
+        top: -25%;
+        height: 120px;
+        width: 120px;
+    }
+    
+    .journey-four-eye {
+        right: 3%;
+    }
+    
+    .journey-three-wrap {
+        padding-top: 380px;
+    }
+    
+    /*======*/
+    .location-banners-wrap {
+        margin-top: -85px;
+    }
+
+    /*Mix Page*/
+    .mix-banners-wrap {
+        margin-top: -85px;
+    }
+
+    .mix-banner-text {
+        margin-top: -280px;
+    }
+
+    /*The distilling*/
+    .distillery-banner-wrap {
+        margin-top: -85px;
+    }
+
+    .spirit-text p {
+        font-size: 12px;
+    }
+
+    .what-is-text p {
+        font-size: 12px;
+    }
+
+    .journey-text p {
+        font-size: 12px;
+    }
+
+    .possibilities-textpart-text p {
+        font-size: 18px;
+    }
+
+    .journey-tiger-img {
+        right: 0%;
+        width: 22%;
+    }
+
+    .location-bottle {
+        width: 30%;
+    }
+
+    /* The Spirit */
+    .spirit-loca-bottle {
+        bottom: -36%;
+        width: 30%;
+        right: 35%;
+    }
+
+    .spirit-ten-wrap {
+        height: 360px;
+    }
+
+    .spirit-eight-text {
+        margin-top: 0;
+    }
+
+    .spirit-nine-text {
+        margin-top: 180px;
+    }
+
+}
+
+
+@media (max-width:1200px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .tiger-popup img {
+        width: 310px;
+    }
+
+    .popup-box {
+        padding: 30px 40px;
+    }
+
+    .tiger-popup {
+        right: -230px;
+    }
+
+    .journey-wrap {
+        padding-bottom: 265px;
+    }
+
+    .spirit-text p {
+        font-size: 14px;
+    }
+
+    .what-is-text p {
+        font-size: 14px;
+    }
+
+    .journey-text p {
+        font-size: 14px;
+    }
+
+    .possibilities-textpart-text p {
+        font-size: 14px;
+    }
+
+    .spirit-text p br {
+        display: none;
+    }
+
+    .map {
+        bottom: -140px;
+    }
+
+    .banners-wrap .banner-text {
+        padding: 110px 0 60px 0;
+    }
+
+    .fruits-bg-wrap {
+        height: 200px;
+        background-attachment: local;
+    }
+
+    .tiger-popup {
+        right: -200px;
+    }
+}
+
+@media (max-width:1080px) {
+    .hamenu .menu-links {
+        padding-left: 130px;
+    } 
+    
+    .follow-list {
+        margin-left: -13%;
+    }
+    
+    /*.spirit-ten-wrap {*/
+    /*    background-size: contain;*/
+    /*}*/
+    
+    .legacy-five-text {
+        padding-left: 90px;
+        padding-right: 90px;
+    }
+    
+    .distillery-three-img-sec img {
+        height: 620px;
+        object-fit: cover;
+    }
+    
+    .cocktails-carousel.owl-carousel .owl-nav button.owl-next {
+        right: -3%;
+    }
+    
+    .cocktails-carousel.owl-carousel .owl-nav button.owl-prev {
+        left: -3%;
+    }
+    
+    .banners-wrap {
+        height: 60vh;
+    }
+    
+    .side-parrot {
+        width: 235px;
+    }
+    
+    .fruits-bg-wrap {
+        height: 400px;
+    }
+    
+    .journey-wrap {
+        padding-top: 400px;
+        padding-bottom: 400px;
+    }
+    
+    .pop-up-join-our-two-img .popup-main-img {
+        height: 880px;
+    }
+    
+    .spirit-five-wrap {
+        height: 350px;
+        /*background-attachment: local;*/
+    }
+    
+    .banner-product-img img {
+        height: 50vh;
+    }
+    
+    .spirit-eleven-bottle {
+        width: 22%;
+    }
+    
+    .spirit-three-wrap {
+        height: 50vh;
+    }
+    
+    /*Cookies Policy*/
+    .cookies-policy-tiger-img {
+        top: -45px;
+        left: -15px;
+        width: 150px;
+    }
+    
+    .cookies-policy-eye-icon-sec {
+        right: -10px;
+        bottom: -35px;
+        width: 80px;
+    }
+    
+    /*Blog Page*/
+    .blog-banners-wrap {
+        height: 40vh;
+    }
+    
+    .blog-two-text {
+        padding: 0;
+    }
+    
+    .blog-two-wrap {
+        padding: 40px 0;
+    }
+    
+    .blog-articles-wrap {
+        padding: 40px 0 10px;
+    }
+    
+    
+    /*Resurrection Page*/
+    .resurrection-banners-wrap {
+        height: 50vh;
+    }
+    
+    /*Journey Page*/
+    .journey-banners-wrap {
+        height: 60vh;
+    }
+    
+    .journey-three-wild-text {
+        width: 90%;
+    }
+    
+    .journey-three-img-one {
+        top: 260px;
+        left: 2%;
+        width: 18%;
+    }
+    
+    .journey-three-eye-icon {
+        right: 15px;
+        top: -35%;
+    }
+    
+    .journey-three-wrap {
+        padding-top: 300px;
+    }
+    
+    .journey-four-eye {
+        width: 150px;
+    }
+
+    /* what is mahura page */
+    .what-is-mahura-banners-wrap {
+        height: 50vh;
+    }
+
+    .mahura-six-img-two {
+        top: 200px;
+        right: 60px;
+    }
+
+    .mahura-six-wrap {
+        padding-top: 320px;
+    }
+
+    /*Legacy Page*/
+    .legacy-five-tiger-claws-sec {
+        top: 150%;
+        left: 35%;
+        width: 330px;
+    }
+
+    .legacy-two-wrap {
+        padding: 0 0;
+    }
+
+    .leg-extra-ne-wrap {
+        padding: 0;
+    }
+
+    /*Legacy-page*/
+    .legacy-four-eye-box {
+        width: 340px;
+    }
+
+    /* The Location */
+    .location-two-tiger-back {
+        right: 40%;
+        width: 20%;
+    }
+
+    .spirit-text {
+        padding-left: 6em;
+    }
+
+    .tiger-popup img {
+        width: 270px;
+    }
+
+    .cta-badge-box h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .our-articles-eye {
+        right: 0;
+    }
+
+    /* The Spirit */
+    .spirit-loca-bottle {
+        bottom: -22%;
+        width: 30%;
+        right: 35%;
+    }
+    
+    .spirit-two-tiger-back {
+        bottom: -20%;
+    }
+    
+    .spirit-eight-text {
+        margin-top: 40px;
+    }
+    
+    .spirit-nine-text {
+        margin-top: 40px;
+    }
+    
+    .spirit-eight-eye-icon {
+        right: 2%;
+        top: 2%;
+    }
+
+    /* Cocktail recipe page */
+    .cocktail-recipe-one-wrap h2 {
+        font-size: 58px;
+        line-height: 58px;
+    }
+}
+
+/*font size changing for tab*/
+@media (max-width:992px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .banner-product-img img {
+        height: 50vh;
+    }
+    
+    /*Journey Page*/
+    .journey-two-text {
+        padding: 40px 20px;
+        margin: 0 100px;
+    }
+    
+    .journey-three-img-one {
+        top: 185px;
+        width: 20%;
+    }
+    
+    .journey-three-eye-icon {
+        right: 15px;
+        top: -30%;
+    }
+    
+    .journey-three-wrap {
+        padding-top: 220px;
+    }
+    
+    .journey-four-text {
+        padding: 0 140px;
+    }
+
+    /* The Location */
+    .location-two-tiger-back {
+        right: 36%;
+        width: 25%;
+    }
+
+    .journey-wrap {
+        padding-top: 310px;
+    }
+
+    .journey-tiger-img {
+        right: 10%;
+        width: 21%;
+    }
+
+    .possibilities-text h2 {
+        font-size: 36px;
+        letter-spacing: 4px;
+    }
+
+    .tiger-popup img {
+        width: 290px;
+    }
+
+    .tiger-popup {
+        right: -165px;
+        width: 200px;
+    }
+
+    .footer-left-bottom,
+    .footer-right-bottom {
+        text-align: center;
+    }
+
+    .hamenu .menu-links .main-menu>li .link .fill-text:after {
+        display: none;
+    }
+
+    .hamenu .menu-links .main-menu>li .link .fill-text {
+        color: #000000;
+        font-size: 30px;
+    }
+
+    .possibilities-text h2 {
+        font-size: 34px;
+    }
+
+    .distillery-text h2 {
+        font-size: 34px;
+    }
+
+    .location-text h2 {
+        font-size: 34px;
+    }
+
+    .legacy-text h2 {
+        font-size: 34px;
+    }
+
+    .journey-text h2 {
+        font-size: 34px;
+    }
+
+    .what-is-text h2 {
+        font-size: 34px;
+    }
+
+    .spirit-text h2 {
+        font-size: 34px;
+    }
+
+    .cta-badge-box h2 {
+        font-size: 34px;
+    }
+
+    .banners-wrap .banner-text h1 {
+        font-size: 60px;
+        line-height: 50px;
+    }
+
+    .banners-wrap .banner-text p {
+        font-size: 14px;
+    }
+
+    .banners-wrap .banner-text {
+        padding: 40px 0 30px 0;
+    }
+
+    .about-text img {
+        width: 140px;
+    }
+
+    .spirit-wrap {
+        padding: 40px 0;
+    }
+
+    .eye-icon {
+        height: 140px;
+        width: 140px;
+    }
+
+    .cta-badge-wrap>.container {
+        padding: 60px 20px 40px 20px;
+        width: 90%;
+    }
+
+    .banners-wrap {
+        height: 60vh;
+    }
+
+    .spirit-wrap .spirit-flex-row {
+        flex-direction: row;
+    }
+
+    .cocktails-carousel.owl-carousel .owl-nav button.owl-prev {
+        left: -3%;
+    }
+
+    .cocktails-carousel.owl-carousel .owl-nav button.owl-next {
+        right: -3%;
+    }
+
+    .join-us-wrap .eye-icon {
+        display: none;
+    }
+
+    .spirit-bg-sec {
+        background: none;
+    }
+
+    .spirit-text {
+        padding-left: 0em;
+        padding-right: 2em;
+    }
+
+    .side-parrot {
+        top: 40%;
+        width: 230px;
+    }
+
+    .our-articles-eye {
+        width: 150px;
+    }
+
+    .join-us-wrap .join-us-form-sec {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 0;
+    }
+
+    .join-us-img-sec img {
+        width: 450px;
+    }
+
+    .spirit-bg-sec {
+        background: none;
+    }
+
+    /*.spirit-img-cont-sec {*/
+    /*    background: url(../images/home/spirit-tiger-img-22.png);*/
+    /*    background-size: contain;*/
+    /*    background-repeat: no-repeat;*/
+    /*    background-position: bottom;*/
+    /*}*/
+
+    /* ========== */
+    .spirit-two-text {
+        text-align: center;
+        padding: 0 80px;
+    }
+
+    .spirit-banners-wrap {
+        height: 60vh;
+    }
+
+    .spirit-loca-bottle {
+        right: 30%;
+        width: 36%;
+    }
+
+    .spirit-two-tiger-back {
+        bottom: -25%;
+        right: 30%;
+        width: 48%;
+    }
+}
+
+
+@media (max-width:768px) {
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+        .follow-list {
+        margin-left: -18%;
+    }
+    
+    .distillery-three-img-sec img {
+        height: 100%;
+    }
+    
+    .pop-up-join-our-two-img .popup-main-img {
+        height: 900px;
+    }
+    
+    .spirit-three-wrap .spirit-three-text {
+        padding: 0;
+    }
+    
+    .spirit-eleven-bottle {
+        width: 18%;
+    }
+    
+    .spirit-three-wrap .spirit-three-text p {
+        font-size: 12px;
+    }
+    
+    .spirit-refi-four-subrow-sec {
+        display: block;
+    }
+    
+    .spirit-refi-four-content-sec {
+        padding-top: 60px;
+    }
+    
+    .contact-us-tel-sec {
+        justify-content: space-between;
+        padding: 0 20px 10px;
+    }
+    
+    .contact-us-mail-sec {
+        justify-content: space-between;
+        padding: 0 20px;
+    }
+    
+    .contact-us-btn-sec p {
+        font-size: 14px;
+    }
+    
+    .terms-and-conditions-one-text p {
+        padding: 0 40px;
+    }
+    
+    .social-responsibility-one-text p {
+        padding: 0 40px;
+    }
+    
+    .social-responsibility-two-text {
+        padding: 0 40px;
+    }
+    
+    .privacy-policy-one-text p {
+        padding: 0 20px;
+    }
+    
+    /*Cookies policy*/
+    .cookies-policy-tiger-img {
+        top: -30px;
+        left: 0px;
+        width: 130px;
+    }
+    
+    .cookies-policy-eye-icon-sec {
+        right: 0px;
+    }
+    
+    .pop-up-join-our-one-img img {
+        width: 1200px;
+        object-fit: cover;
+        height: 720px;
+    }
+    
+    
+    .resurrection-seven-sub-text {
+        padding: 40px 20px;
+    }
+    
+    .resurrection-eight-text {
+        padding: 0 80px;
+    }
+    
+    .resurrection-eye-icon-sec {
+        right: 0px;
+        top: -60px;
+        width: 110px;
+    }
+    
+    .resurrection-five-text p {
+        padding: 0 128px;
+    }
+    
+    .resurrection-three-text p {
+        padding: 0 80px;
+    }
+    
+    .media-banner-text h1 {
+        margin-top: -20%;
+    }
+    
+    .resurrection-four-img-one {
+        top: 275px;
+        left: 0px;
+        width: 170px;
+    }
+    
+    /*Journey Page*/
+    .journey-two-text {
+        padding: 40px 20px;
+        margin: 0 100px;
+    }
+    
+    .journey-three-img-one {
+        top: 185px;
+        width: 20%;
+    }
+    
+    .journey-three-eye-icon {
+        right: 20px;
+        top: -40%;
+        width: 90px;
+        height: 90px;
+    }
+    
+    .journey-three-wrap {
+        padding-top: 220px;
+    }
+    
+    .journey-four-text {
+        padding: 0 140px;
+    }
+    
+    .journey-four-eye {
+        width: 120px;
+    }
+    
+
+    /* Cocktail page */
+    .cocktail-recipe-eye-icon-sec {
+        right: 10px;
+    }
+
+    .cocktail-recipe-one-wrap h2 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    /* what is the mahura page */
+    .mahura-six-img-two {
+        top: 150px;
+        right: 60px;
+        width: 130px;
+    }
+
+    .mahura-six-img-one {
+        top: -60px;
+        left: 5%;
+        width: 25%;
+    }
+
+    .mahura-six-wrap {
+        padding-top: 280px;
+    }
+
+    /*Legacy Page*/
+    .legacy-four-eye-box {
+        width: 24%;
+        bottom: -155px;
+        left: 48%;
+    }
+
+    .legacy-two-wrap {
+        padding: 40px 0 0;
+    }
+
+    .mix-banner-text {
+        margin-top: -200px;
+    }
+
+    .spirit-eight-eye-icon {
+        right: 4%;
+        top: 2%;
+        height: 180px;
+        width: 180px;
+    }
+
+    .spirit-eight-text {
+        margin-top: 40px;
+    }
+
+    .spirit-two-tiger-back {
+        bottom: -20%;
+        right: 32%;
+        width: 35%;
+    }
+    
+    .spirit-loca-bottle {
+        bottom: -25%;
+        right: 32%;    
+    }
+    
+    .spirit-three-wrap {
+        padding: 50px 0;
+    }
+
+    /*.spirit-wrap {*/
+    /*    background: url(../images/bg/tig-bottle-bg.png);*/
+    /*}*/
+
+    .spirit-wrap .spirit-flex-row {
+        flex-direction: row;
+    }
+
+    .banners-wrap {
+        height: 60vh;
+    }
+
+    .cta-badge-wrap {
+        text-align: center;
+    }
+
+    .cta-bottle {
+        position: relative;
+        right: 0;
+        left: 0;
+        text-align: center;
+        bottom: -40px;
+        background-size: cover;
+        background-position: center bottom;
+        background-repeat: repeat;
+        width: 60%;
+        margin: auto;
+    }
+
+    .tiger-popup img {
+        display: none;
+    }
+
+    .popup-inner-box {
+        padding: 0 20px;
+    }
+
+    .hamenu .menu-links {
+        width: 100%;
+    }
+
+    .hamenu .menu-links .main-menu {
+        padding-left: 100px;
+    }
+
+    .spirit-wrap .flex-row {
+        flex-direction: column;
+    }
+
+    .spirit-text {
+        padding-left: 0;
+        padding-right: 2em;
+    }
+
+    .circle-fruits-box {
+        height: 130px;
+        right: 5vw;
+        width: 130px;
+    }
+
+    .journey-tiger-img {
+        top: -18%;
+        right: 15%;
+        width: 25%;
+    }
+
+    .journey-two {
+        width: 20%;
+    }
+
+    .journey-three {
+        width: 20%;
+    }
+
+    .location-bottle {
+        right: 5%;
+        width: 25%;
+    }
+
+    .banners-wrap .banner-text h1 {
+        font-size: 50px;
+    }
+
+    /* .spirit-img img{
+        display: none;
+    } */
+    .what-is-text p br {
+        display: none;
+    }
+
+    .journey-wrap {
+        padding-top: 300px;
+        padding-bottom: 300px;
+        background-size: contain;
+        background-position: center bottom;
+    }
+
+    .journey-one {
+        top: 20px;
+        left: 0;
+    }
+
+    .journey-two {
+        top: 20px;
+    }
+
+    .journey-three {
+        top: 140px;
+    }
+
+    .spirit-wild-text {
+        width: 30%;
+    }
+
+    .distillery-text h4 {
+        font-size: 24px;
+    }
+
+    .our-articles-eye {
+        right: 0;
+    }
+
+    /* ======== */
+    .spirit-refi-four-text {
+        margin: 0;
+        padding: 15px;
+    }
+
+    .spirit-background-image {
+        top: 25%;
+        width: 150px;
+    }
+
+    .spirit-refi-four-text p {
+        font-size: 16px;
+    }
+}
+
+
+@media (max-width:640px) {
+    
+    .hamenu .menu-links {
+        padding-left: 30px;
+    } 
+    
+    .possibilities-text h2 {
+        font-size: 24px;
+        line-height: 2px;
+    }
+
+    .banners-wrap .banner-text h1 {
+        font-size: 36px;
+    }
+
+    .footer-middle-col {
+        display: none;
+    }
+
+    .footer-wrap .col-md-4 {
+        width: 50%;
+    }
+
+    .footer-text-left {
+        justify-content: left;
+        text-align: left;
+    }
+
+    .follow-list {
+        justify-content: left;
+        margin-left: 0;
+    }
+
+    .popup-box h2 {
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 10px;
+    }
+
+    .popup-box .first-text br {
+        display: none;
+    }
+
+    .spirit-eight-eye-icon {
+        right: 5%;
+        top: -5%;
+        height: 100px;
+        width: 100px;
+    }
+
+    .spirit-eight-wrap {
+        padding-top: 50px;
+    }
+
+    .spirit-background-image img {
+        width: 100%;
+    }
+
+    .spirit-loca-bottle {
+        bottom: -60%;
+    }
+    
+    .privacy-policy-one-text h2 {
+        font-size: 30px;
+    }
+}
+
+/*font size changing for mobile*/
+@media (max-width:480px) {
+    .blog-banner-text-main h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    
+    
+    .legacy-banner-text-two {
+        padding-top: 140px;
+    }
+    
+    .location-two-wrap {
+        padding: 50px 0 100px;
+    }
+    
+    .spirit-three-wrap {
+        height: 80vh !important;
+    }
+    
+    .spirit-three-wrap .our-spirit-para-sec p {
+        font-size: 14px;
+    }
+    
+    .vertical-menu-text {
+        font-size: 8vh;
+    }
+    
+    .spirit-seven-title-text h2 {
+        font-size: 50px;
+    }
+    
+    .spirit-background-image img {
+        margin-top: 60px;
+    }
+    
+    .journey-four-wrap {
+        padding: 0 0;
+    }
+    
+    .journey-three-wild-text {
+        top: -30px;
+    }
+    
+    .spirit-five-wrap {
+        background-attachment: local;
+    }
+    
+    .spirit-ten-wrap {
+        background-attachment: local;
+    }
+    
+    .popup-join-our-content-sec p {
+        font-size: 14px;
+    }
+    
+    .legacy-five-text {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .journey-wrap {
+        padding-top: 250px;
+        padding-bottom: 200px;
+    }
+    
+    .spirit-nine-text {
+        margin-top: 40px;
+    }
+    
+    .spirit-eight-text {
+        margin-top: 60px;
+    }
+    
+    .mob-hide {
+        display: none;
+    }
+    
+    .desk-br {
+        display: block;
+    }
+    
+    .our-articles-wrap {
+        padding: 0;
+    }
+    
+    .spirit-ten-text .ch-btn-style-1 {
+        margin-bottom: 10px;
+    }
+    
+    /*.distillery-five-wrap {*/
+    /*    background-attachment: local;*/
+    /*}*/
+    
+    .social-responsibility-one-text h2 {
+        font-size: 30px;
+    }
+    
+    .popup-row-sec-two {
+        display: block;
+    }
+    
+    .popup-join-our-two-content-sec {
+        padding: 20px;
+    }
+    
+    .blog-breadcrumb-info h1 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+    
+    .banner-product-img img {
+        height: 35vh;
+    }
+    
+    .resurrection-two-text h2 {
+        font-size: 40px;
+    }
+    
+    .resurrection-seven-sub-text h2 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .journey-four-eye{
+        display: none;        
+    }
+    
+    .journey-banner-text {
+        margin-top: 20%;
+    }
+    
+    /*.mix-fourr-row .mix-odd-col {*/
+    /*    padding-right: 5px !important;*/
+    /*}*/
+    
+    /*.mix-fourr-row .mix-even-col {*/
+    /*    padding-left: 5px !important;*/
+    /*}*/
+    
+    .cocktail-box {
+        padding-bottom: 10px;
+    }
+    
+    .contact-us-btn-sec p a {
+        font-size: 14px;
+    }
+    
+    .contact-us-btn-sec p {
+        font-size: 16px;
+    }
+    
+    .what-is-mahura-banner-text h3 {
+        font-size: 30px;
+    }
+    
+    .spirit-five-wrap {
+        height: 250px;
+    }
+    
+    .spirit-refi-four-eye-box {
+        bottom: -50px;
+        height: 100px;
+        width: 100px;
+    }
+    
+    .spirit-eight-wild-text {
+        width: 85%;
+    }
+    
+    .spirit-eight-eye-icon {
+        top: -1%;
+    }
+    
+    .spirit-three-wrap .spirit-three-text p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    
+    .spirit-three-wrap .spirit-three-text img {
+        width: 80px;
+    }
+    
+    .resurrection-banner-text {
+        margin-top: 60px;
+    }
+    
+    .mix-banner-text h4 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    
+    .mix-banner-text h1 {
+        font-size: 30px;
+    }
+    
+    .distillery-one-text-sec {
+        margin-top: 15%;
+    }
+    
+    .distillery-five-text h4 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    
+    .spirit-eleven-bottle {
+        width: 22%;
+        bottom: -10px;
+    }
+    
+    .spirit-three-wrap {
+        padding: 30px 0;
+        height: 50vh;
+    }
+    
+    .spirit-eleven-text h2 {
+        font-size: 50px;
+    }
+    
+    /*.spirit-three-wrap {*/
+    /*    background-position: center right;*/
+    /*}*/
+    
+    .legacy-text p {
+        font-size: 16px;
+    }
+    
+    .about-text p {
+        font-size: 14px;
+    }
+    
+    .location-three-wrap {
+        background-attachment: local;
+    }
+    
+    .contact-us-tel-sec {
+        display: block;
+    }    
+    
+    .contact-us-mail-sec {
+        display: block;
+    }
+    
+    .possibilities-wrap {
+        height: 180px;
+    }
+    
+    .location-one-text-sec p {
+        font-size: 14px;
+        padding: 0;
+    }
+    
+    .location-one-text-sec h2 {
+        font-size: 30px;
+        line-height: 26px;
+        margin-bottom: 10px;
+    }
+    
+    .location-one-text-sec h4 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    
+    .location-one-text-sec {
+        margin-top: 30%;
+    }
+    
+    
+    /*=========*/
+    .legacy-banner-text h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    
+    .legacy-banner-text h4 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    
+    .legacy-banners-wrap {
+        background-position: center left;
+    }
+    
+    .terms-and-conditions-one-text h2 {
+        font-size: 30px;
+    }
+    
+    .terms-and-conditions-one-text p {
+        padding: 0 20px;
+    }
+    
+    .social-responsibility-one-text p {
+        padding: 0 20px;
+    }
+    
+    .social-responsibility-two-text {
+        padding: 0 20px;
+    }
+    
+    /*cookies-policy*/
+    .cookies-policy-one-text {
+        padding: 40px;
+    }
+    
+    .cookies-policy-title-sec h2 {
+        font-size: 30px;
+        margin-bottom: -20px;
+    }
+    
+    .cookies-policy-tiger-img {
+        top: -50px;
+        left: 5px;
+        width: 100px;
+    }
+    
+    .popup-row-sec {
+        display: block;
+    }
+    
+    .pop-up-join-our-one-img img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .popup-join-our-content-sec {
+        padding: 20px;
+    }
+    
+    /*Blog Page*/
+    .blog-banners-wrap {
+        background-position: center;
+    }
+    
+    .blog-banner-text h1 {
+        /*text-align: center;*/
+        font-size: 26px;
+    }
+    
+    .blog-two-text h5 {
+        font-size: 20px;
+    }
+    
+
+    
+    /*resurrection*/
+    .resurrection-banner-text h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        line-height: 30px;
+    }
+    
+    .resurrection-banner-text h3 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    
+    .resurrection-banner-text h5 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    
+    .resurrection-two-text p {
+        padding: 0 10px;
+    }
+    
+    .resurrection-three-text p {
+        padding: 0 10px;
+    }
+    
+    .resurrection-eye-icon-sec {
+        right: 8px;
+        top: -45px;
+        width: 80px;
+    }
+    
+    .resurrection-four-img-one {
+        top: 140px;
+        left: 10px;
+        width: 125px;
+    }
+    
+    .resurrection-five-text p {
+        padding: 0 10px;
+    }
+    
+    .resurrection-seven-text {
+        bottom: -265px;
+    }
+    
+    .resurrection-eight-text {
+        padding: 0 40px;
+    }
+    
+    .resurrection-eight-wrap {
+        padding: 310px 0 80px;
+    }
+    
+    .resurrection-seven-sub-text {
+        padding: 20px 10px;
+    }
+    
+    .resurrection-five-eye-icon {
+        right: 22%;
+    }
+    
+    
+    /*Journey Page*/
+    .journey-banners-wrap {
+        height: 35vh;
+    }
+    
+    .journey-banner-text h1 {
+        font-size: 36px;
+        line-height: 36px;
+        text-align: left;
+    }
+    
+    .journey-banner-text h4 {
+        text-align: left;
+        font-size: 18px;
+    }
+    
+    .journey-three-eye-icon {
+        display: none;
+    }
+    
+    .journey-two-text {
+        padding: 20px 20px;
+        margin: 0 25px;
+    }
+    
+    .journey-four-text {
+        padding: 40px 0;
+    }
+    
+    .journey-three-img-one {
+        /*top: 60px;*/
+        top: 110px;
+    }
+    
+    .journey-three-wrap {
+        padding-top: 40px;
+    }
+    
+
+    /* Cocktail recipe page */
+    .cocktail-recipe-one-wrap .row {
+        display: block;
+    }
+
+    .cocktail-recipe-one-wrap {
+        padding: 0 0 80px;
+    }
+
+    .cocktail-recipe-text-sec {
+        padding: 40px 0 0;
+    }
+
+    .cocktail-recipe-eye-icon-sec {
+        top: -50px;
+        width: 100px;
+    }
+
+    /* What is mahura page */
+    .what-is-mahura-banner-text h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    
+    .what-is-mahura-banner-text {
+        margin-top: -130px;
+    }
+
+    .what-is-mahura-two-box {
+        height: 120px;
+        width: 100px;
+    }
+
+    .what-is-mahura-three-text {
+        padding: 100px 0 40px;
+    }
+
+    .what-is-mahura-four-text {
+        padding: 20px 40px;
+    }
+
+    .mahura-six-wild-text {
+        width: 80%;
+    }
+
+    .mahura-six-img-two {
+        top: 90px;
+        right: 5px;
+        width: 90px;
+    }
+
+    .mahura-six-wrap {
+        padding-top: 180px;
+    }
+
+    .mahura-seven-text-sec {
+        padding: 40px 40px 0;
+    }
+
+    /*Legacy page*/
+    .legacy-four-eye-box {
+        width: 30%;
+    }
+
+    .mix-banner-text {
+        margin-top: 60px;
+    }
+
+    .legacy-four-eye-box {
+        width: 32%;
+        bottom: -130px;
+    }
+
+    /* THe Location */
+    .location-two-tiger-back {
+        right: 22%;
+        width: 50%;
+        bottom: -40%;
+    }
+
+    /*.spirit-wrap {*/
+    /*    background: url(../images/home/spirit-tiger-img.png);*/
+    /*    background-size: contain;*/
+    /*    background-repeat: no-repeat;*/
+    /*    background-position: bottom;*/
+    /*}*/
+
+    /*.spirit-img-cont-sec {*/
+    /*    background: none;*/
+    /*}*/
+
+    .join-us-img-sec img {
+        width: 100%;
+    }
+
+    .spirit-wrap .spirit-flex-row {
+        flex-direction: column;
+    }
+
+    .banners-wrap .banner-text {
+        /* height: 800px; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        /* width: 65%; */
+    }
+
+    .banners-wrap .banner-text {
+        padding: 0;
+    }
+
+    .banners-wrap .banner-text p br {
+        display: none;
+    }
+
+    .possibilities-text h2 {
+        font-size: 28px;
+    }
+
+    .distillery-text h2 {
+        font-size: 28px;
+    }
+
+    .location-text h2 {
+        font-size: 28px;
+    }
+
+    .legacy-text h2 {
+        font-size: 28px;
+    }
+
+    .journey-text h2 {
+        font-size: 28px;
+    }
+
+    .what-is-text h2 {
+        font-size: 28px;
+    }
+
+    .spirit-text h2 {
+        font-size: 28px;
+    }
+
+    .cta-badge-box h2 {
+        font-size: 28px;
+    }
+
+    .journey-text h4 {
+        font-size: 24px;
+    }
+
+    .popup-box .first-text {
+        font-size: 16px;
+    }
+
+    .popup-box .second-text {
+        font-size: 12px;
+    }
+
+    .popup-box {
+        padding: 10px 10px;
+    }
+
+    .popup-box h2 {
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .spirit-tiger {
+        width: 100%;
+    }
+
+    .spirit-text {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    /*.journey-one {*/
+    /*    display: none;*/
+    /*}*/
+
+    /*.journey-two {*/
+    /*    display: none;*/
+    /*}*/
+
+    /*.journey-three {*/
+    /*    display: none;*/
+    /*}*/
+
+    .what-is-text {
+        padding: 0 0 0px 0;
+    }
+
+    .spirit-wild-text {
+        width: 40%;
+    }
+
+    .location-text {
+        margin: 0px 0px;
+    }
+
+    .location-wrap .col-xs-offset-2 {
+        margin-left: 0;
+    }
+
+    .location-wrap .col-xs-8 {
+        width: 100%;
+    }
+
+    .map,
+    .location-bottle {
+        display: none;
+    }
+
+    .location-wrap {
+        padding: 80px 0;
+    }
+
+    .eye-icon {
+        height: 80px;
+        width: 80px;
+    }
+
+    .cta-badge-box h2 {
+        font-size: 24px;
+        line-height: 1.3;
+    }
+
+    .circle-fruits-box {
+        height: 100px;
+        right: 5vw;
+        width: 100px;
+        bottom: -48px;
+    }
+
+    .about-text img {
+        width: 110px;
+    }
+
+    .banner-down-arrow img {
+        width: 30px;
+    }
+
+    .logo img {
+        width: 100px;
+    }
+
+    .navbar>.navcontainer {
+        padding: 1vw 3vw;
+    }
+
+    .hamenu .menu-links .main-menu {
+        padding-left: 20px;
+    }
+
+    .possibilities-text h2 {
+        font-size: 16px;
+        line-height: 1px;
+    }
+
+    .journey-tiger-img {
+        top: -20%;
+        right: 0;
+    }
+
+    .journey-text p {
+        padding: 0 0;
+    }
+
+    .our-articles-eye {
+        right: 0;
+    }
+
+    .join-us-wrap .row {
+        display: block;
+    }
+
+    .join-us-wrap .join-us-pl-sec {
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 40px;
+    }
+
+    .join-us-wrap .join-us-form-sec {
+        padding-left: 0;
+        padding-bottom: 40px;
+    }
+
+    .eye-icon {
+        bottom: 1.5%;
+    }
+
+    .side-parrot {
+        width: 160px;
+        top: 75%;
+    }
+
+    .cocktails-carousel.owl-carousel .owl-nav button.owl-prev {
+        width: 24px;
+        height: 24px;
+        left: -3%;
+    }
+
+    .cocktails-carousel.owl-carousel .owl-nav button.owl-next {
+        width: 24px;
+        height: 24px;
+        right: -3%;
+    }
+
+    .vertical-menu-text {
+        top: 4%;
+    }
+
+    .tiger-menuimg-valign {
+        width: 80vw;
+    }
+
+    .banners-wrap {
+        height: 35vh;
+    }
+
+    .about-wrap {
+        padding: 40px 0;
+    }
+
+    .spirit-img img {
+        margin-left: -35%;
+        float: left;
+        width: 230px;
+    }
+
+    .our-articles-eye {
+        top: 0px;
+        width: 120px;
+    }
+
+    /* ======== */
+    .spirit-banners-wrap {
+        height: 60vh;
+    }
+
+    .spirit-banner-text h1 {
+        font-size: 66px;
+    }
+
+    .spirit-loca-bottle {
+        right: 20%;
+        width: 60%;
+        bottom: -40%;
+    }
+
+    .spirit-two-text {
+        padding: 0;
+    }
+
+    .spirit-two-wrap {
+        padding: 120px 0 80px;
+    }
+
+    .spirit-two-tiger-back {
+        bottom: -10%;
+        right: 10%;
+        width: 75%;
+    }
+
+    .spirit-tiger-bg-sec {
+        margin-top: 200px;
+    }
+
+    /* ======== */
+    .spirit-refi-four-subrow-sec {
+        display: block;
+    }
+
+    .spirit-refi-four-text {
+        margin: 0;
+        padding: 15px;
+    }
+
+    .spirit-refi-four-content-sec {
+        margin-top: 120px;
+    }
+
+    .spirit-background-image {
+        top: -10%;
+        width: 200px;
+    }
+
+    .spirit-refi-four-text p {
+        font-size: 18px;
+    }
+    
+    .distillery-six-text p {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width:360px) {
+    .leg-extra-three-content {
+        padding: 40px 0 120px;
+    }
+    
+    .distillery-six-text p {
+        font-size: 18px;
+    }
+    
+    .leg-extra-four-content p {
+        font-size: 14px;
+    }
+    
+    .spirit-nine-text {
+        margin-top: 0;
+    }
+    
+    .location-banners-wrap {
+        height: 40vh;
+    }
+    
+    .journey-banner-text h1 {
+        font-size: 36px;
+        line-height: 36px;
+        text-align: left;
+    }
+    
+    .journey-banner-text h4 {
+        text-align: left;
+        font-size: 18px;
+    }
+    
+    .location-one-text-sec p {
+        font-size: 14px;
+        padding: 0;
+    }
+    
+    .location-one-text-sec h2 {
+        font-size: 24px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    
+    .location-one-text-sec h4 {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    
+    .location-one-text-sec {
+        margin-top: 30%;
+    }
+    
+    /*Cookies policy*/
+    .cookies-policy-one-text {
+        padding: 20px;
+    }
+    
+    .resurrection-four-img-one {
+        top: 100px;
+    }
+    
+    .resurrection-seven-text {
+        bottom: -410px;
+    }
+    
+    .resurrection-eight-wrap {
+        padding: 440px 0 80px;
+    }
+    
+    .resurrection-eight-text {
+        padding: 0 10px;
+    }
+    
+    /*Journey Page*/
+    .journey-banners-wrap {
+        height: 35vh;
+    }
+    
+    .journey-banner-text {
+        margin-top: 40%;
+    }
+    
+    .legacy-content-sec {
+        gap: 20px;
+    }
+
+    .mix-banner-text {
+        margin-top: 80px;
+    }
+
+    /* The Location */
+    .location-two-tiger-back {
+        right: 22%;
+        width: 50%;
+        bottom: -25%;
+    }
+
+
+    /* ======== */
+    .spirit-banners-wrap {
+        height: 60vh;
+    }
+
+    .spirit-banner-text h1 {
+        font-size: 52px;
+        margin-bottom: -40%;
+    }
+
+    .spirit-loca-bottle {
+        bottom: -30%;
+        right: 25%;
+        width: 48%;
+    }
+
+    .spirit-two-text {
+        padding: 0;
+    }
+
+    .spirit-two-wrap {
+        padding: 120px 0 80px;
+    }
+
+    .spirit-two-tiger-back {
+        bottom: -5%;
+        right: 10%;
+        width: 75%;
+    }
+
+    /* ======== */
+    .spirit-refi-four-subrow-sec {
+        display: block;
+    }
+
+    .spirit-refi-four-text {
+        margin: 0;
+        padding: 15px;
+    }
+
+    .spirit-refi-four-content-sec {
+        margin-top: 120px;
+    }
+
+    .spirit-background-image {
+        top: 0;
+        width: 200px;
+    }
+
+    .spirit-refi-four-text p {
+        font-size: 16px;
+    }
+    
+    .spirit-three-wrap {
+        padding: 30px 0;
+        height: 76vh;
+    }
+    
+    .spirit-three-wrap .our-spirit-para-sec p {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width:320px) {}
+
+
+
+/*@media only screen and (min-width: 768px) and (max-width: 991px) {*/
+/*    .banners-wrap .banner-text {*/
+/*        margin-top: -35%;*/
+/*    }*/
+/*}*/
+
+
+/* ========= */
+.cocktail-recipe-panel-sec ol {
+    padding: 15px;
+}
+
+.cocktail-recipe-panel-sec li {
+    font-size: 18px;
+    color: #000;
+    font-family: CormorantGaramond-Regular;
+    font-weight: 400;
+}
+
+.cocktail-recipe-panel-sec ul {
+    padding: 0 0;
+}
+
+.cocktail-recipe-panel-sec ul li {
+    margin-bottom: 15px;
+}
+
+/*============*/
+.main-menu .link .active {
+  /*color: #032c4a !important;*/
+  color: #cda45c !important;
+}
+
+.dark-page-content-sec h4 {
+    font-family: CormorantGaramond-Regular;
+    font-size: 18px;
+    color: #000;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
