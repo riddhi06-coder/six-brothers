@@ -65,6 +65,20 @@
                   </ul>
                 </li>
 
+
+                <li class="sidebar-list"> <i class="fa fa-thumb-tack"> </i><a class="sidebar-link sidebar-title" href="#">
+                    <svg class="stroke-icon"> 
+                      <use href="{{ asset('admin/assets/svg/icon-sprite.svg#stroke-internationalization') }}"></use>
+                    </svg>
+                    <svg class="fill-icon">
+                      <use href="{{ asset('admin/assets/svg/icon-sprite.svg#stroke-internationalization') }}"></use>
+                    </svg><span>Cocktails</span></a>
+                  <ul class="sidebar-submenu">
+                    <li><a href="{{ route('cocktails.index') }}">Cocktails</a></li>
+                    <li><a href="{{ route('cocktails.index') }}">Cocktails Details</a></li>
+                  </ul>
+                </li>
+
               </ul>
               <div class="right-arrow" id="right-arrow"><i data-feather="arrow-right"></i></div>
             </div>
