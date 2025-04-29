@@ -74,8 +74,8 @@
                                         @endif
                                     </td>
                                     <td>
-                                        <a href="{{ route('blog-types.edit', $blog->id) }}" class="btn btn-sm btn-primary">Edit</a><br><br>
-                                        <form action="{{ route('blog-types.destroy', $blog->id) }}" method="POST" style="display:inline-block;" onsubmit="return confirm('Are you sure?');">
+                                        <a href="{{ route('cocktails.edit', $blog->id) }}" class="btn btn-sm btn-primary">Edit</a><br><br>
+                                        <form action="{{ route('cocktails.destroy', $blog->id) }}" method="POST" style="display:inline-block;" onsubmit="return confirm('Are you sure?');">
                                             @csrf
                                             @method('DELETE')
                                             <button type="submit" class="btn btn-sm btn-danger">Delete</button>
