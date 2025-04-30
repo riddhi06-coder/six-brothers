@@ -14,9 +14,9 @@ use App\Http\Controllers\Backend\CocktailsDetailsController;
 
 use App\Http\Controllers\Frontend\HomeController;
 
-// Route::get('/', function () {
-//     return view('frontend.home');
-// });
+Route::get('/', function () {
+    return view('frontend.home');
+});
   
 // Authentication Routes
 Route::get('/login', [LoginController::class, 'login'])->name('admin.login');
@@ -58,6 +58,9 @@ Route::group(['prefix'=> '', 'middleware'=>[\App\Http\Middleware\PreventBackHist
 
 
     Route::get('/community', [HomeController::class, 'index'])->name('community.page');
+    // Route::get('/', [HomeController::class, 'home'])->name('home.page');
     Route::get('/blog-details/{slug}', [HomeController::class, 'blog_details'])->name('blog.details');
+    Route::get('/{slug}', [HomeController::class, 'show'])->name('cocktails.show');
+
     
 });

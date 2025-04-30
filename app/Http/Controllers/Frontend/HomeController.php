@@ -14,6 +14,8 @@ use App\Models\CommunityBanner;
 use App\Models\CommunityPressRelease;
 use App\Models\Blogs;
 use App\Models\BlogDetails;
+use App\Models\CocktailDetails;
+use App\Models\Cocktails;
 
 use Carbon\Carbon;
 
@@ -47,5 +49,18 @@ class HomeController extends Controller
         return view('frontend.blog-details', compact('blogs', 'blog_head','blogs_articles'));
     }
     
+
+    public function show($slug)
+    {
+        $cocktail = Cocktails::where('slug', $slug)->firstOrFail();
+        $details = CocktailDetails::where('blog_title_id', $cocktail->id)->first();
+
+        // dd($details);
+    
+        return view('frontend.cocktail-details', compact('cocktail', 'details'));
+    }
+    
+
+
     
 }
